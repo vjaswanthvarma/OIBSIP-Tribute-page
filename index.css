@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(30, 28, 28);
+}
+h2{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    color:blanchedalmond;
+    font-style: italic;
+}
+span{
+    color:greenyellow;
+}
+.para2,.para3,.para4{
+    display: flex;
+  align-items: center;
+ justify-content: center;
+}
+#pic1{
+    margin-right:30px;
+    margin-left:10px;
+    border-radius: 10px;
+}
+h1{
+    color:palevioletred;
+}
+footer{
+    float:right;
+    color:green;
+    font-size: xx-large;
+    margin-top:100px;
+    margin-bottom:200px;
+    margin-right:100px;
+    font-weight: bold;
+    font-style:oblique;
+}
